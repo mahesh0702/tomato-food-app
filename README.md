@@ -1,7 +1,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 
-
-                                                       # How to Setup & Run this Project
+# How to Setup & Run this Project
 
 ❖	Install NodeJs ( Ignore If Already Installed) 
 
@@ -15,8 +14,7 @@
 
 4.	Follow the prompts in the installer.
 
-
-                                                  —First Run Backend then Frontend & Admin—
+ —First Run Backend then Frontend & Admin—
 
 
 ❖	Steps To Setup Backend Of The Project
